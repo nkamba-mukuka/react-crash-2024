@@ -9,25 +9,25 @@ const HomeCards = () => {
           <Card>
             <h2 className='text-2xl font-bold'>For Developers</h2>
             <p className='mt-2 mb-4'>
-              Browse our React jobs and start your career today
+              Through the deep diving quest to become a sofftware engineer, success was attained and we show it.
             </p>
             <Link
               to='/jobs'
               className='inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700'
             >
-              Browse Jobs
+              Certification
             </Link>
           </Card>
           <Card bg='bg-indigo-100'>
             <h2 className='text-2xl font-bold'>For Employers</h2>
             <p className='mt-2 mb-4'>
-              List your job to find the perfect developer for the role
+              I 
             </p>
             <Link
               to='/add-job'
               className='inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600'
             >
-              Add Job
+              About me
             </Link>
           </Card>
         </div>
